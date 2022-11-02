@@ -11,3 +11,4 @@ export const Home = () => {
         <h3>If you have logged in, Click on the button below:</h3><button onClick={() => navigate('profile')}>Login</button>
         </div>
 }
+
