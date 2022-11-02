@@ -62,5 +62,3 @@ export const Profile = () => {
     </div>
   )
 }
-
-
