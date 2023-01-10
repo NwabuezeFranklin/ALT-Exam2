@@ -7,3 +7,4 @@
 ## :heavy_check_mark: BONUS- Extract out a custom hook to get the currently logged in user.
 
 ###  https://nwabuezefranklin-altexam2.netlify.app/
+### Article https://medium.com/@nwafrank2017/an-article-on-react-routers-nested-routes-404-page-error-boundary-1d7ffa9dc524
